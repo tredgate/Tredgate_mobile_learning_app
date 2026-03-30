@@ -9,8 +9,8 @@ android {
         applicationId "com.example.tredgate_learningapp"
         minSdk 19
         targetSdk 33
-        versionCode 4
-        versionName "0.0.7"
+        versionCode 5
+        versionName "0.0.8"
         multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

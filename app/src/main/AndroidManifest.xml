@@ -11,6 +11,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Tredgate_learningApp"
         android:name="androidx.multidex.MultiDexApplication">
+        <profileable android:shell="true" />
+
         <activity
             android:name=".LoggedUser"
             android:exported="false" />
